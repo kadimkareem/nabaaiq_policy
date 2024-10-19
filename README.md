@@ -1,74 +1,42 @@
-**Privacy Policy**
 
-This privacy policy applies to the Nabaa IQ app (hereby referred to as "Application") for mobile devices that was created by kadhum kareem (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Privacy Policy
 
-**Information Collection and Use**
+This privacy policy applies to the Nabaa IQ app (referred to as “Application”) for mobile devices, created by Kadhum Kareem (referred to as “Service Provider”) as a free service. The Application is provided “AS IS” and is intended solely for its stated functionality.
 
-The Application collects information when you download and use it. This information may include information such as
+Information Collection and Use
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application does not collect any personal data from users. No data such as IP addresses, location, or device details are gathered while you use the Application.
 
-The Application does not gather precise information about the location of your mobile device.
+The only permission required by the Application is access to your device’s camera, which is used exclusively for the app’s intended functionality (e.g., capturing photos or videos within the app). The Application does not store, share, or transmit any data captured by the camera.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Third-Party Access
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+The Application does not transmit any data to third-party services, and no external parties have access to the camera data used by the Application.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Please note that the Application may utilize third-party services such as Google Play Services for app distribution, and these services have their own privacy policies. You can review their privacy policy at:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to kadhum.alrubaye@outlook.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+	•	Google Play Services
 
-**Third Party Access**
+Children
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Application is not directed towards children under the age of 13. The Service Provider does not knowingly collect personal information from children under 13. Since no data is collected by the Application, there is no risk of such data being shared. However, if you believe a child has used the app and shared personal information, please contact us so we can take appropriate action.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Security
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+The Service Provider prioritizes the privacy and security of users. Since the Application does not collect or transmit any data, there are no concerns about unauthorized data access or breaches. The camera permission is solely used for the Application’s purpose.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Changes to This Privacy Policy
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+This Privacy Policy may be updated from time to time. Any updates will be posted on this page, and you are encouraged to review the Privacy Policy periodically. Continued use of the Application after any changes will constitute your acknowledgment of the modifications and your consent to follow and be bound by the updated Privacy Policy.
 
-**Opt-Out Rights**
+This privacy policy is effective as of 2024-10-19.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Your Consent
 
-**Data Retention Policy**
+By using the Application, you consent to the use of camera permissions as outlined in this Privacy Policy. No personal data is collected, stored, or processed.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at kadhum.alrubaye@outlook.com and they will respond in a reasonable time.
+Contact Us
 
-**Children**
+If you have any questions regarding this Privacy Policy, please contact the Service Provider via email at kadhum.alrubaye@outlook.com.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (kadhum.alrubaye@outlook.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2024-10-19
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at kadhum.alrubaye@outlook.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+This version reflects that the app only uses the camera permission and does not collect any user data.
